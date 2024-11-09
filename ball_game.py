@@ -156,8 +156,8 @@ while key != ord('q'):
                 speed[i] = -speed[i]
 
     cv2.imshow('ball game', bkg_copy)
-    key = cv2.waitKey(5)
-    print(f"Pressed key: {key}")
+    key = cv2.waitKey(10)
+    #print(f"Pressed key: {key}")
 
 # your turn
 # 1. move up and down (y coordinate goes from 0 to height and back)
