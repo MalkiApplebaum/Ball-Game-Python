@@ -5,6 +5,8 @@ Ball Game is an interactive 2-player arcade game where two players control paddl
 
 The game features two walls, which are controlled by the players using the keyboard. The players can move their walls in the game to block the ball and score points. The game ends when the player quits the game by pressing the `q` key.
 
+![Game Screenshot](screenshot%20ball%20game.png)
+
 ## How to Play
 1. **Player 1** uses the **WASD** keys to move the left wall.
    - **W** to move up
@@ -36,4 +38,4 @@ The game features two walls, which are controlled by the players using the keybo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ball-game.git
+   git clone https://github.com/MalkiApplebaum/Ball-in-Python.git
