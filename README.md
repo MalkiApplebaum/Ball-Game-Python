@@ -9,6 +9,8 @@ The game features two walls, which are controlled by the players using the keybo
 ![Game Screenshot](C:\Users\This User\Desktop\פרויקטים עובדים שהעליתי לGIT\ball game\screenshot ball game.png)
 ![Game Screenshot](https://github.com/MalkiApplebaum/Ball-in-Python/edit/master/screenshot ball game.png)
 
+![Game Screenshot](screenshot%20ball%20game.png)
+
 ## How to Play
 1. **Player 1** uses the **WASD** keys to move the left wall.
    - **W** to move up
@@ -40,4 +42,4 @@ The game features two walls, which are controlled by the players using the keybo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ball-game.git
+   git clone https://github.com/MalkiApplebaum/Ball-in-Python.git
