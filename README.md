@@ -1,4 +1,5 @@
 # Ball Game
+### Developed by Malki Applebaum ✍️
 
 ## Description
 Ball Game is an interactive 2-player arcade game where two players control paddles to bounce a ball back and forth. The goal of the game is to prevent the ball from going past your paddle while trying to make the ball go past your opponent's paddle.
